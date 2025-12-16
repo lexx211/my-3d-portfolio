@@ -1,7 +1,7 @@
 {
   "name": "3D Design Portfolio",
   "short_name": "3D Portfolio",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
